@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdbool.h>
+#include <stdbool.h> // use for bool type
 
 int main(void) {
 
