@@ -1,5 +1,6 @@
 /*
     Author: Matt Johnson
+    Directory: Lecture 31 Enums and Chars
     Purpose: program demonstrates enum and char data types
     Date: 01/17/2023
 */
