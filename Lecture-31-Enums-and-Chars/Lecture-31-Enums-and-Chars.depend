@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1673958672 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-05-Variables-and-Data-Types/Lecture-31-Enums-and-Chars/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
