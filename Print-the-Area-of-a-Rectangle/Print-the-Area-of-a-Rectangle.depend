@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674045959 source:/home/snarkydata/udemy-courses/C-Courses/C-Programming-For-Beginners/Section-05-Variables-and-Data-Types/Print-the-Area-of-a-Rectangle/main.c
+	<stdio.h>
+	<stdlib.h>
+
