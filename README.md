@@ -5,7 +5,7 @@ for Section 5 of C Programming for Beginners: Master the C Language
 by Jason Fedin, which covers basic data types, enums and chars, 
 format specifiers, and command line arguments.
 
-See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" target="_blank" title="C Programming"> </a>
+See the following link for this course: <a href="https://www.udemy.com/course/c-programming-for-beginners-/" target="_blank" title="C Programming">C Programming for Beginners</a>
 
 In this repository, I incorporated Code::Blocks Integrated Development
 Environment (IDE) and the Vim text editor along with Git and GitHub
