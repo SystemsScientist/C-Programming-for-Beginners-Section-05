@@ -13,7 +13,7 @@ into my workflow. I also used the Fedora 37 system in a VirtualBox
 environment to create, use, and manage directories and files as I worked
 through the section.
 
-Please feel free to reach out ot me at devildoc300@gmail.com
+Please feel free to reach out to me at devildoc300@gmail.com
 if you have any questions or comments. In addition, feel free to
 utilize the source code for your consumption and edification.
 
@@ -22,14 +22,16 @@ utilize the source code for your consumption and edification.
 Technical Notes and Considerations
 --------------------------------------------------------------------------
 
-To compile, build, and execute the Section 5 files,
+To compile, build, and execute the Section 5 files and directories,
 
-    (1) copy the code and paste it directly into your preferred
+    (1) click on the blue "Code" button above and click the 
+        "Download Zip" link, or
+    (2) copy the code and paste it directly into your preferred
         Integrated Development Environment (IDE), CLion, CodeLite,
         or Code::Blocks, for example, or your preferred text
         editor, Vim, Nano, or Emacs, for example
-    (2) and either compile, build, and execute the files in your IDE
-    (3) or use the following command-line script:
+    (3) and either compile, build, and execute the files in your IDE
+    (4) or use the following command-line script:
 
             $ gcc name_of_file.c -o main
             $ ./main
